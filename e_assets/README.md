@@ -1,9 +1,9 @@
-## En esta carpeta se alojarán los recursos necesarios complementarios al proyecto.
+![logo](/e_assets/images/logoISPC.png)
 
 ---
 
 
-# Assets del Proyecto
+# Assets para el proyecto:
 
 Esta carpeta contiene todos los recursos estáticos (assets) utilizados en el proyecto. Su contenido está organizado para facilitar la gestión y el acceso a los diferentes tipos de archivos.
 
