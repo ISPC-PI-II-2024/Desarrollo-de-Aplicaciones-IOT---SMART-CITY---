@@ -1,6 +1,6 @@
 ## En esta carpeta se alojarán los recursos necesarios complementarios al proyecto.
 
-TXYZ: Aquí tienes un `README.md` para la carpeta de assets de tu proyecto:
+---
 
 ```markdown
 # Assets del Proyecto
