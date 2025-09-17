@@ -1,3 +1,5 @@
+![logo](/e_assets/images/logoISPC.png)
+
 ## BRAN STORMING SMART CITY | ILUMINACION SMART:  
 
 
