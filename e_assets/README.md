@@ -2,7 +2,7 @@
 
 ---
 
-```markdown
+
 # Assets del Proyecto
 
 Esta carpeta contiene todos los recursos estáticos (assets) utilizados en el proyecto. Su contenido está organizado para facilitar la gestión y el acceso a los diferentes tipos de archivos.
@@ -11,7 +11,7 @@ Esta carpeta contiene todos los recursos estáticos (assets) utilizados en el pr
 
 La estructura general de esta carpeta es la siguiente:
 
-
+```markdown
 assets/  
 ├── images/           # Imágenes generales del proyecto (logos, iconos, ilustraciones, etc.)
 │   ├── logos/
@@ -23,6 +23,7 @@ assets/
 ├── videos/           # Archivos de video
 ├── audio/            # Archivos de audio
 └── data/             # Archivos de datos estáticos (JSON, CSV, etc.)
+```
 
 
 ## Contenido Detallado
@@ -67,4 +68,3 @@ Archivos de datos estáticos en formatos como JSON, CSV, etc., que son consumido
 ## Contribución
 
 Si necesitas añadir nuevos assets, por favor, sigue las convenciones de nomenclatura y la estructura de carpetas existentes. Si la estructura actual no se adapta a tus necesidades, discute los cambios propuestos con el equipo antes de implementarlos.
-```
