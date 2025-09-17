@@ -1,0 +1,1 @@
+## En esta carpeta se alojarán los recursos necesarios complementarios al proyecto.
