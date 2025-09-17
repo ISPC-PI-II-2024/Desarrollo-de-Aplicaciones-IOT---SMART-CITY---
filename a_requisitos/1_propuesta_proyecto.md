@@ -4,7 +4,7 @@
 Este proyecto busca acercar a estudiantes de la [Tecnicatura Superior en Telecomunicaciones] a los conceptos prácticos de telecomunicaciones mediante una interfaz visual interactiva.
 
 ## 🛠 Problema
-[Definir la prolematica, esto es solo a modo de ejemplo]
+[Definir la problematica, esto es solo a modo de ejemplo]
 Los estudiantes tienen dificultades para visualizar cómo funcionan las redes IoT, la propagación de señales y los efectos de la interferencia.
 
 ## 💡 Solución propuesta
