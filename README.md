@@ -13,6 +13,7 @@ Diseñar y desarrollar un frontend educativo que permita a estudiantes visualiza
 - Pantoja, Paola Natalia Alejandra - [GitHub: PaolaaPantoja](https://github.com/PaolaaPantoja)
 - Paez, Tiziano Adrian - [GitHub: tpaez](https://github.com/tpaez)
 - María Lilen Guzmán- [GitHub:lilenguzman01](https://github.com/lilenguzman01)
+- Juan Diego Gonzalez Antoniazzi - [GitHub:JDGA1997](https://github.com/JDGA1997)
 
 ## 📂 Estructura del repositorio
 | Carpeta | Contenido |
