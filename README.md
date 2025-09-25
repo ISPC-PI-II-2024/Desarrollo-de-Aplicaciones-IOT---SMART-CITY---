@@ -8,12 +8,12 @@
 Diseñar y desarrollar un frontend educativo que permita a estudiantes visualizar datos en tiempo real, simular redes IoT y comprender protocolos de telecomunicaciones.
 
 ## 👥 Equipo
-- Jose Marquez -[GitHub:marquezjose](https://github.com/marquezjose)
-- Lisandro JUncos - [GitHub:Lisandro-05](https://github.com/Lisandro-05)
+- Jose Marquez -[GitHub: marquezjose](https://github.com/marquezjose)
+- Lisandro JUncos - [GitHub: Lisandro-05](https://github.com/Lisandro-05)
 - Pantoja, Paola Natalia Alejandra - [GitHub: PaolaaPantoja](https://github.com/PaolaaPantoja)
 - Paez, Tiziano Adrian - [GitHub: tpaez](https://github.com/tpaez)
-- María Lilen Guzmán- [GitHub:lilenguzman01](https://github.com/lilenguzman01)
-- Macarena Carballo - [GitHub: completar](https:// github.com/xxxx
+- María Lilen Guzmán- [GitHub: lilenguzman01](https://github.com/lilenguzman01)
+- Macarena Carballo - [GitHub: completar](https:// github.com/xxxx)
 
 ## 📂 Estructura del repositorio
 | Carpeta | Contenido |
