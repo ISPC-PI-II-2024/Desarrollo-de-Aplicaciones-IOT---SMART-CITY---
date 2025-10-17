@@ -1,12 +1,17 @@
 ![logo](/e_assets/images/logoISPC.png)
 
 <div align="center">
+  <img src="/e_assets/images/logoilum.png" alt="Logo de ILUMINET" width="300"/>
+</div>
+
+<div align="center">
 
 ## ILUMINET — Sistema de Alumbrado Público Inteligente (IoT)
 
 Proyecto educativo y de prototipo cuyo objetivo es diseñar una plataforma para monitorizar y regular luminarias públicas mediante sensores y comunicación IoT. Está orientado a uso docente: explicar protocolos (MQTT, LoRa, HTTP), arquitectura de sistemas y prácticas de sensorización y visualización de datos.
 
 </div>
+
 
 ### Contenido de esta página
 - Resumen del proyecto
