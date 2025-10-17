@@ -23,25 +23,25 @@ ILUMINET es un proyecto de Internet de las Cosas (IoT) diseñado para modernizar
 
 Toda la red es gestionada desde una plataforma centralizada que monitorea el estado, predice fallos y optimiza el mantenimiento, mejorando la seguridad ciudadana y sentando las bases para el desarrollo de futuras aplicaciones de Smart City.
 
-✨ Características Principales
-Iluminación Adaptativa: Ahorro energético de hasta un 80% al regular la intensidad de la luz según la demanda real.
+## ✨ Características Principales
+- Iluminación Adaptativa: Ahorro energético de hasta un 80% al regular la intensidad de la luz según la demanda real.
 
-Monitoreo Remoto 24/7: Visualización del estado y consumo de cada luminaria en tiempo real a través de dashboards en Grafana.
+- Monitoreo Remoto 24/7: Visualización del estado y consumo de cada luminaria en tiempo real a través de dashboards en Grafana.
 
-Conectividad Celular: Los gateways utilizan módulos GPRS (SIM800L) para garantizar la comunicación desde cualquier ubicación, sin depender de redes WiFi.
+- Conectividad Celular: Los gateways utilizan módulos GPRS (SIM800L) para garantizar la comunicación desde cualquier ubicación, sin depender de redes WiFi.
 
-Arquitectura Escalable: Diseño modular basado en Nodos, Gateways y un Backend centralizado que permite un crecimiento orgánico y controlado.
+- Arquitectura Escalable: Diseño modular basado en Nodos, Gateways y un Backend centralizado que permite un crecimiento orgánico y controlado.
 
-Seguridad End-to-End: Comunicación cifrada con TLS entre los gateways y el servidor, y autenticación por credenciales para cada dispositivo.
+- Seguridad End-to-End: Comunicación cifrada con TLS entre los gateways y el servidor, y autenticación por credenciales para cada dispositivo.
 
-🏗️ Arquitectura del Sistema
+## 🏗️ Arquitectura del Sistema
 El sistema se divide en tres capas lógicas bien diferenciadas, asegurando una clara separación de responsabilidades y una alta modularidad.
 
-Capa de Nodos (ESP8266): Dispositivos de bajo costo instalados en cada luminaria. Miden la luz ambiental (BH1750), detectan presencia (PIR), monitorean el consumo (SCT-013) y se comunican por RF con su gateway.
+- Capa de Nodos (ESP8266): Dispositivos de bajo costo instalados en cada luminaria. Miden la luz ambiental (BH1750), detectan presencia (PIR), monitorean el consumo (SCT-013) y se comunican por RF con su gateway.
 
-Capa de Gateway (ESP32): Actúa como el cerebro local. Centraliza la comunicación de múltiples nodos por RF, se conecta a internet vía GPRS y envía los datos de forma segura al backend usando MQTT sobre TLS.
+- Capa de Gateway (ESP32): Actúa como el cerebro local. Centraliza la comunicación de múltiples nodos por RF, se conecta a internet vía GPRS y envía los datos de forma segura al backend usando MQTT sobre TLS.
 
-Capa de Backend (Docker): Un conjunto de servicios contenerizados que se ejecutan en un servidor en la nube para recibir, procesar, almacenar y visualizar toda la información del sistema.
+- Capa de Backend (Docker): Un conjunto de servicios contenerizados que se ejecutan en un servidor en la nube para recibir, procesar, almacenar y visualizar toda la información del sistema.
 
 ---
 
